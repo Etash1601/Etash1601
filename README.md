@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Etash Ashwin
+ Hi, I’m Etash Ashwin 👋🏼
 
 <!---
 Etash1601/Etash1601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
